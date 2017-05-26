@@ -1,0 +1,199 @@
+		body{
+/* 			background-image: url("https://static.pexels.com/photos/337181/pexels-photo-337181.jpeg");
+			background-size: cover;
+    		background-position: center;  */
+		}
+/*		@font-face {
+			  font-family: 'Lato';
+			  font-style: normal;
+			  font-weight: 600;
+			  src:url("data:font/ttf;base64,AAEAAAASAQA[...]") format('truetype');
+			}*/
+		body,
+		html {
+		    width: 100%;
+		    height: 100%;
+		    font-family: "Lato";
+		    color: white;
+		}
+		.navbar-default{
+			background-color: #F5F7FA;
+			color:#F5F7FA;
+		}
+		.content{
+      color:white;
+			padding-top: 25%;
+			text-align: center;
+    		text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+            0px 8px 13px rgba(0,0,0,0.2),
+            0px 18px 23px rgba(0,0,0,0.2);
+		}
+		h1 {
+			font-weight: 700;
+			font-size: 5em;
+		}
+		.btn-lg{
+			background-color: #FFCE54;
+			border-color:black
+			;
+			color:white;
+			text-align: center;
+    		text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+            0px 8px 13px rgba(0,0,0,0.1),
+            0px 18px 23px rgba(0,0,0,0.1);
+            font-weight:900;
+		}
+		.btn-lg:hover{
+			background-color: #F6BB42;
+			border-color:black;
+			color:white;
+		}
+
+		hr {
+    		width: 400px;
+    		border-top: 1px solid #f8f8f8;
+    		border-bottom: 1px solid rgba(0,0,0,0.2);
+			}
+		.parallax {
+		    /* Set a specific height */
+		    min-height: 850px; 
+
+		    /* Create the parallax scrolling effect */
+		    background-attachment: fixed;
+		    background-position: center;
+		    background-repeat: no-repeat;
+		    background-size: cover;
+		}
+		.small{
+			min-height:400px;
+		}
+.bg1{
+  /*background-image: url("https://static.pexels.com/photos/337181/pexels-photo-337181.jpeg");*/
+  background-image: url("background1.jpg");
+}
+.bg2{
+ background-image: url("https://static.pexels.com/photos/197756/pexels-photo-197756.jpeg");  
+}
+.bg3{
+	background-image: url("https://static.pexels.com/photos/141673/pexels-photo-141673.jpeg");
+}
+.bg4{
+	background-image: url("https://static.pexels.com/photos/226037/pexels-photo-226037.jpeg");
+
+}
+.bgLightGrey2{
+	background-color: #E6E9ED;
+}
+.bgLightGrey1{
+	background-color: #F5F7FA;
+}
+.bgDarkGrey{
+	background-color: #434A54;
+}
+.bgDarkBlue{
+	background-color: #061926;
+}
+.bgLightBlue{
+	background-color: #ACB29E;
+}
+/*		#whiteBox{
+			background-color:#D7CEC7;
+			height:200px;
+		}
+		#transparentBox{
+			
+			height:550px;
+		}
+		#grayBox{
+			background-color:#C09F80;
+			height:100px;
+		}
+*/.Box{
+
+	
+
+}
+.smallBox{
+
+
+}
+/*.row{
+	margin-left:15px;
+}*/
+.marginBottom10{
+	margin-bottom:22px;
+}
+.marginBottom100{
+	padding-bottom:5%;
+}
+.marginTop100{
+	padding-top:5%;
+}
+.marginTop30px{
+	padding-top:30px;
+}
+	#img1{
+		background-image: url("Images/GoT1.jpg");
+		background-size: inherit;
+    	background-position: center; 
+    	background-repeat: no-repeat;
+	}
+	#img2{
+		background-image: url("Images/Sherlock1.jpg");
+		background-size: inherit;
+    	background-position: center; 
+    	background-repeat: no-repeat;
+	}
+	#img3{
+		background-image: url("Images/SuperNatural1.jpg");
+		background-size: inherit;
+    	background-position: center; 
+    	background-repeat: no-repeat;
+	}
+	.imageWidth100{
+		padding:0;
+		margin:0;
+		width:249px;
+		height:320px;
+		box-shadow: 2px 2px 5px #333333;
+	}
+	.tvPoster{
+		width:100%;
+		box-shadow: 2px 2px 5px #333333;
+	}
+	.albumArt{
+		width:100%;
+		margin-top:10%;
+		box-shadow: 2px 2px 5px #434A54;
+		background-color: white;
+		padding:10px;
+	}
+	.containerEnd{
+		margin-bottom:10%;
+	}
+	#myCarousel{
+		width:50%;
+		margin-left:25%;
+		margin-right:25%;
+		box-shadow: 2px 2px 5px #434A54;
+	}
+	.item{
+
+	}
+	.coverImage{
+		width:100%;
+	}
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
